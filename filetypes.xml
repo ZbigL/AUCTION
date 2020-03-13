@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="dane" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="keep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
