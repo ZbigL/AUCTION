@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="dane" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="dane" type="PLAIN_TEXT" />
+      <mapping pattern="keep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
