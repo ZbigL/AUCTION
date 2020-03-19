@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/kkochel/orm-hibernate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Mbojanow/sda-caching-webinar.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Java_projects" />
