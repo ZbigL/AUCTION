@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="src">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Java_projects/HelloWorld_JavaFX/src" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
